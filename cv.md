@@ -26,3 +26,6 @@ function removeEveryOther(arr){
     return arr;
 }
 ```
+
+### Education
+I have a 4-grade diploma in pottery :sweat_smile:
