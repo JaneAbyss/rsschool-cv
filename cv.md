@@ -6,3 +6,5 @@
 - __Telegram__: [@Jane_abyss](https://t.me/Jane_abyss)
 
 
+### About me
+ My main goal is to acquire new knowledge so that in the future my earnings do not depend on my place of residence and employer.
