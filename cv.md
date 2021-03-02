@@ -8,3 +8,21 @@
 
 ### About me
  My main goal is to acquire new knowledge so that in the future my earnings do not depend on my place of residence and employer.
+
+### Code examples
+```javascript
+function positiveSum(arr) {
+    let result = 0;
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] > 0) result = result + arr[i];
+    }
+ return result;
+}
+
+function removeEveryOther(arr){
+  for (let i = 0; i < arr.length; i++) {
+        arr.splice(i + 1, 1);
+    }
+    return arr;
+}
+```
